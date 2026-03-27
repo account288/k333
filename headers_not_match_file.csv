@@ -1,0 +1,5 @@
+Unique Id;Custom Content Map Id;Unique Label;Geo Targeting;Unique_ID;REFERENCE;AUDIENCE;;;
+3;832755;Version1;;1;Version1;Audience1;FF_1;TRUE;TRUE
+2;832756;Version2;;2;Version2;Audience1;FF_1;FALSE;TRUE
+3;832756;Version1;;1;Version1;Audience3;FF_3;FALSE;TRUE
+4;832758;Version 4;;4;Version 4;Audience4;FF_4;FALSE;TRUE
