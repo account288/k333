@@ -1,0 +1,6 @@
+product_id,product_name,category,price,active,landing_page
+SKU-001,Trail Running Shoes,Footwear,129.99,true,https://example.com/products/sku-001
+SKU-002,"City Jacket, Lightweight",Apparel,89.50,true,https://example.com/products/sku-002
+SKU-003,Everyday Backpack,Accessories,64.00,false,https://example.com/products/sku-003
+SKU-004,Performance Socks,Footwear,14.99,true,https://example.com/products/sku-004
+SKU-005,Classic Cap,,24.50,true,https://example.com/products/sku-005
